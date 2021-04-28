@@ -1,2 +1,2 @@
-this is the second chapter of the git and github tutorial
+this is the second chapter of the git and github tutorial and the changes made are with respect to the anciet-story branch
 
